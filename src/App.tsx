@@ -1,4 +1,4 @@
-import ProvideMainServer from "@caphub-funding/mainserver-provider";
+import ProvideMainServer from "@caphub-group/mainserver-provider";
 import { Typography } from "@mui/material";
 
 function App() {
